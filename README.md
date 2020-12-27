@@ -19,7 +19,7 @@ Use [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download
 
 Download [setup archive](https://github.com/OmniMir/OmniKeys/releases), unzip it and install with setup.exe.
 
-_For Windows 10_ Go to `Parameters => Date and Language => Language`, then `Preferred Languages => English  _or_ Russian => Settings`, after that `Add Keyboard` OmniKeys. You may delete primary keyboard.
+_For Windows 10_ Go to `Parameters => Date and Language => Language`, then `Preferred Languages => English or Russian => Settings`, after that `Add Keyboard` OmniKeys. You may delete primary keyboard.
 
 
 
